@@ -12,4 +12,4 @@ Accounts payable for a property management company's two AP teams. Eight modules
 
 Five AI workflow demos for a flex industrial real estate operator, including lease abstraction and rent comps pulled from broker memoranda. Every extracted field shows its confidence and the page it came from.
 
-UCL Information Management for Business, London · [LinkedIn]((https://www.linkedin.com/in/kerem-akkiri%C5%9F-6a639b2a0/))
+UCL Information Management for Business, London · [LinkedIn](https://www.linkedin.com/in/kerem-akkiri%C5%9F-6a639b2a0/)
